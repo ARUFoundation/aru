@@ -1,5 +1,6 @@
 ---
-title: "Fundación Aru 2021"
+title: "Plan 2021-2022. Fundación Aru"
+author: "Alvaro Chirino"
 date: "Enero, 2021"
 output:
   rmdformats::robobook:
@@ -23,7 +24,55 @@ opts_chunk$set(echo=FALSE,
 opts_knit$set(width=75)
 ```
 
+![](https://www.aru.org.bo/admin/img/logo/aru+.png)
+
+# PEI 2019-2020
+
+## Objetivos
+
+  * Facilitar la generación de documentos de investigación alrededor de agendas ya existentes, aprovechando de manera eficiente los recursos disponibles y a partir de una nueva estructura organizacional.
+  * Generar capacidades entre jóvenes investigadores de ARU identificando escenarios de mentoría, de reproducción de conocimiento y elaboración de investigaciones.
+  * Aprovechar las actuales estrategias de relacionamiento con diversos actores académicos, agencias de cooperación, donantes y otros relacionados con la política pública para mejorar sus estrategias de investigación, capacitación, comunicación y fondeo de recursos.
+
+## Resultados e indicadores para el seguimiento y la evaluación
+
+**Objetivo 1: Facilitar la generación de documentos de investigación**
+
+| Resultados  	| Fuentes de verificación  	| Responsable  	|
+|-	|-	|-	|
+| 1.1. Una agenda de investigación en curso con documentos asociados a cada área (ejemplos: pobreza, monitoreo y evaluación, economía política)  	| Documentos colgados en la página Web  	| Dirección Ejecutiva  	|
+| 1.2. Una base de datos con las investigaciones y documentos de trabajo desde 2007  	| Documentos colgados en la página Web  	| Unidad administrativa  	|
+| 1.3. Todos los acuerdos con los investigadores se expresan en términos de referencia que identifican explícitamente los aportes de ARU, los aportes del investigador y las condiciones de la relación entre ambos.  	| Archivos de cada proyecto con términos de referencia  	| Unidad administrativa  	|
+| 1.4. Mecanismo de coordinación de proyectos (por ejemplo, definición de un/a coordinadora de proyectos) definido por la dirección ejecutiva  	| Acta de reunión de directorio en la que se define el mecanismo  	| Dirección Ejecutiva  	|
+| Objetivo 2: Generar capacidades entre jóvenes investigadores  	|  	|  	|
+| 2.1. Oferta formativa en temas de evaluación explicita en la agenda de capacitación  	| Documento que describe la Agenda anual de capacitación  	| Unidad de datos  	|
+| 2.2. Agenda de capacitación definida  	| Documento que describe la Agenda anual de capacitación  	| Unidad de datos  	|
+| 2.3. Al menos 3 asistentes de investigación se convierten en investigadores con al menos un documento presentado en el Taller de investigación aplicada  	| Registros del TIA  	| Dirección ejecutiva  	|
+| Objetivo 3: Aprovechar las actuales estrategias de relacionamiento  	|  	|  	|
+| 3.1. Documento que sintetiza las estrategias de relacionamiento y comunicación  	| Presentación en Directorio  	| Directorio (a definir)  	|
+| 3.2. Al menos 3 acuerdos con instituciones que podrían favorecer el acceso de ARU a fuentes de financiamiento  	| Acuerdos explícitos en convenios o representaciones institucionales (eventos organizados de manera conjunta)  	| Dirección ejecutiva  	|
+
+**Objetivo 2: Generar capacidades entre jóvenes investigadores**
+
+| Resultados  	| Fuentes de verificación  	| Responsable  	|
+|-	|-	|-	|
+| 2.1. Oferta formativa en temas de evaluación explicita en la agenda de capacitación  	| Documento que describe la Agenda anual de capacitación  	| Unidad de datos  	|
+| 2.2. Agenda de capacitación definida  	| Documento que describe la Agenda anual de capacitación  	| Unidad de datos  	|
+| 2.3. Al menos 3 asistentes de investigación se convierten en investigadores con al menos un documento presentado en el Taller de investigación aplicada  	| Registros del TIA  	| Dirección ejecutiva  	|
+| Objetivo 3: Aprovechar las actuales estrategias de relacionamiento  	|  	|  	|
+| 3.1. Documento que sintetiza las estrategias de relacionamiento y comunicación  	| Presentación en Directorio  	| Directorio (a definir)  	|
+| 3.2. Al menos 3 acuerdos con instituciones que podrían favorecer el acceso de ARU a fuentes de financiamiento  	| Acuerdos explícitos en convenios o representaciones institucionales (eventos organizados de manera conjunta)  	| Dirección ejecutiva  	|
+
+**Objetivo 3: Aprovechar las actuales estrategias de relacionamiento**
+
+| Resultados  	| Fuentes de verificación  	| Responsable  	|
+|-	|-	|-	|
+| 3.1. Documento que sintetiza las estrategias de relacionamiento y comunicación  	| Presentación en Directorio  	| Directorio (a definir)  	|
+| 3.2. Al menos 3 acuerdos con instituciones que podrían favorecer el acceso de ARU a fuentes de financiamiento  	| Acuerdos explícitos en convenios o representaciones institucionales (eventos organizados de manera conjunta)  	| Dirección ejecutiva  	|
+
 # Objetivos 2021-2022
+
+
 
   * Redes
     + Seguidores Facebook 4000 a 6000
